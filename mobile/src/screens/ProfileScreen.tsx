@@ -92,7 +92,7 @@ export const ProfileScreen: React.FC<ProfileScreenProps> = ({
         <Card style={styles.aboutCard} backgroundColor="#F9FAFB">
           <Text style={styles.aboutTitle}>Student Expense Tracker</Text>
           <Text style={styles.aboutDesc}>
-            Built with React Native, Expo, and TypeScript for Android. Powered by Node.js, Express, and MongoDB Atlas.
+           Built By Sagar & Roshan.
           </Text>
         </Card>
 
