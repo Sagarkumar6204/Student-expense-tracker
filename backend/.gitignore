@@ -1,0 +1,13 @@
+.env
+
+.env.*
+!.env.example
+node_modules/
+coverage/
+*.log
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+*.p8
